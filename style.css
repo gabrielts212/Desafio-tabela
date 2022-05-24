@@ -1,0 +1,20 @@
+table,tr,td{
+    border: 1px solid black;
+}
+tr{
+    background-color:#BB86FC ;
+}
+td{
+    background-color:#424250 ;
+}
+.table2{
+    border: 1px solid black;
+}
+.tr2{
+    background-color:#00C4B4 ;
+}
+body{
+
+ background-color: wheat;
+}
+
